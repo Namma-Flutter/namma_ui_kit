@@ -7,7 +7,7 @@ Thank you for considering contributing to our Namma UI Kit! We appreciate your t
 All contributions should adhere to the following directory structure:
 
 ```
-/lib/<folder-name>  
+/lib/pages/<your-page-name>
 ```
 
 ### Folder Naming Conventions
@@ -37,7 +37,7 @@ To maintain the integrity and consistency of the UI kit, please follow these gui
 
 2. **Create a Branch**: Create a new branch in your forked repository for your feature or fix. Use a descriptive branch name (e.g., `/lib/pages/user-profile-page`).
 
-3. **Implement Your Changes**: Make your changes in the appropriate folder under `/lib/pages/<folder-name>`.
+3. **Implement Your Changes**: Make your changes in the appropriate folder under `/lib/pages/<your-page-name>`.
 
 4. **Test Your Changes**: Ensure that your changes do not break any existing functionality and that they adhere to the guidelines mentioned above.
 
