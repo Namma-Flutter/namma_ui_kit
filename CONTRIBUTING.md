@@ -49,10 +49,10 @@ To maintain the integrity and consistency of the UI kit, please follow these gui
 
 ## Community and Support
 
-If you have any questions or need assistance, feel free to reach out to the community through [GitHub Discussions](link to discussions) or by opening an issue.
+If you have any questions or need assistance, feel free to reach out to the community by opening an issue.
 
 ## Code of Conduct
 
-Please note that all contributions are subject to our [Code of Conduct](link to code of conduct). We expect all contributors to adhere to these guidelines to maintain a welcoming and inclusive environment.
+Please note that all contributions are subject to our [Code of Conduct](https://github.com/Namma-Flutter/namma_ui_kit/blob/master/CODE_OF_CONDUCT.md). We expect all contributors to adhere to these guidelines to maintain a welcoming and inclusive environment.
 
 Thank you for your contributions! Together, we can build an amazing Namma UI Kit.
