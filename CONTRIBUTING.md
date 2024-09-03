@@ -11,6 +11,7 @@ All contributions should adhere to the following directory structure:
 ```
 
 ### Folder Naming Conventions
+The name should be all lowercase, with underscores to separate words, "just_like_this".Use only basic Latin letters and Arabic digits: [a-z0-9_]
 
 - **Small-case**: All folder names must be in lowercase.
 - **No Spaces**: Folder names should not contain spaces.
