@@ -25,7 +25,7 @@ To maintain the integrity and consistency of the UI kit, please follow these gui
 
 1. **No Third-Party Packages**: Your contribution should not rely on any third-party packages. The focus is on pure Flutter code to ensure that the UI kit remains lightweight and easily integrable.
    
-2. **No internal/External Assets**: Do not include any internal/external assets (e.g., images, fonts) in your contribution. The UI kit should be asset-independent to maintain its flexibility.
+2. **No internal/External Assets**: You can include Internet assets that can be directly copy pasted, please do not include any assets (e.g., images, fonts) that needs to be added manually in your contribution. 
 
 3. **UI-Only Code**: This is a UI library, so the contributions should focus solely on UI elements. Avoid including any business logic or functions unless they are absolutely essential for rendering the UI component. The goal is to provide clean, reusable UI components.
 
