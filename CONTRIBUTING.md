@@ -23,9 +23,12 @@ For example, if you are contributing a new page for a user profile, the folder n
 
 To maintain the integrity and consistency of the UI kit, please follow these guidelines:
 
-1. **No Third-Party Packages**: Your contribution should not rely on any third-party packages. The focus is on pure Flutter code to ensure that the UI kit remains lightweight and easily integrable.
+1. **Limited Third-Party Packages**: Your contribution should ideally not rely on any third-party packages. But we also understand that sometimes to bring the best out of a design, few packages are important. But as of now only these 3rd party packages are allowed and the list can increase based on suggestions from contributors and users
+
+### 3rd party packages accepted for now
+- Lottie Files
    
-2. **No internal/External Assets**: You can include Internet assets that can be directly copy pasted, please do not include any assets (e.g., images, fonts) that needs to be added manually in your contribution. 
+2. **No internal/External Assets**: You can include Internet assets that can be directly copy pasted, please do not include any assets (e.g., images, fonts) that needs to be added manually in your contribution. Let's make the developer user experience much better with minimal interference.
 
 3. **UI-Only Code**: This is a UI library, so the contributions should focus solely on UI elements. Avoid including any business logic or functions unless they are absolutely essential for rendering the UI component. The goal is to provide clean, reusable UI components.
 
@@ -50,7 +53,7 @@ To maintain the integrity and consistency of the UI kit, please follow these gui
 
 ## Community and Support
 
-If you have any questions or need assistance, feel free to reach out to the community by opening an issue.
+If you have any questions or need assistance, feel free to reach out to the community by opening an issue or reach out in our socials.
 
 ## Code of Conduct
 
